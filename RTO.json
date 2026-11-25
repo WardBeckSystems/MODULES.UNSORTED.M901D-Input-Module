@@ -1,0 +1,72 @@
+{
+ "code": "M901D",
+ "connector": "RTO-144",
+ "type": "Input Module",
+ "series": null,
+ "contacts": "46 contacts",
+ "verified": null,
+ "derived": true,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "35",
+   "signal": "MOMENTARY CLOSURE TO CONTROL COMMON VIA AN",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/UNSORTED/M901D/SCHEMATICS/1995 - M901D - 901-01-006 - COMPONENT LAYOUT.wp",
+   "page": 1
+  },
+  {
+   "pin": "36",
+   "signal": "MOMENTARY CLOSURE TO CONTROL COMMON VIA AN",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/UNSORTED/M901D/SCHEMATICS/1995 - M901D - 901-01-006 - COMPONENT LAYOUT.wp",
+   "page": 1
+  },
+  {
+   "pin": "41",
+   "signal": "CUE CHANNEL TOGGLES ON AND OFF",
+   "kind": "audio",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/UNSORTED/M901D/SCHEMATICS/1995 - M901D - 901-01-006 - COMPONENT LAYOUT.wp",
+   "page": 1
+  },
+  {
+   "pin": "45",
+   "signal": "LAMP INTEGRAL TO THE CHANNEL OFF SWITCH",
+   "kind": "control",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/UNSORTED/M901D/SCHEMATICS/1995 - M901D - 901-01-006 - COMPONENT LAYOUT.wp",
+   "page": 1
+  },
+  {
+   "pin": "46",
+   "signal": "LAMP INTEGRAL TO THE CHANNEL OFF SWITCH",
+   "kind": "control",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/UNSORTED/M901D/SCHEMATICS/1995 - M901D - 901-01-006 - COMPONENT LAYOUT.wp",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Modules/UNSORTED/M901D/SCHEMATICS/1995 - M901D - 901-01-006 - COMPONENT LAYOUT.wp"
+ ]
+}
