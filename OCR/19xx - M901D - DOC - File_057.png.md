@@ -142,7 +142,7 @@ PhotoScan by Google Photos
 
 ```json
 {
- "file": "Modules/UNSORTED/M901D/MANUALS/19xx - M901D - DOC - File_057.png",
+ "file": "Modules/RENAISSANCE/M901D/MANUALS/19xx - M901D - DOC - File_057.png",
  "sha256": "2fac536e308dbf32bf004437c8f19d6130d2f6cde3fb6557efb4406a8b9c2320",
  "kind": "doc",
  "models": [
