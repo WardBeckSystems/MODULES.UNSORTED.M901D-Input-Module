@@ -614,5 +614,13 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 
 - [index.html](SOFTWARE/index.html)
 
+## 3-D model
+
+[`MECHANICAL/M901D.stl`](MECHANICAL/M901D.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M901D)
+
+- **Size:** 41 × 450.12 mm panel, 165 mm deep, 3.2 mm plate (assumed 41 mm wide (1.6"), the drawn panel's proportions)
+- **From the drawing:** 12 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M901D - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M901D.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
