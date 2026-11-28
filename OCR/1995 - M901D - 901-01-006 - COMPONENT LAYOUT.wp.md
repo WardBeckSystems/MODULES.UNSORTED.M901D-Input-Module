@@ -1,5 +1,5 @@
 # 1995 - M901D - 901-01-006 - COMPONENT LAYOUT.wp
-Wiki page: [M901D](../../../../PAGES/M901D.md)
+Wiki page: [M901D](../)
 
 
 - **Year:** 1995 (found in this file: "Issue #1 December 7, 1995")
